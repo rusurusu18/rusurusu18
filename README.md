@@ -14,13 +14,13 @@ Turning complex code into elegant solutions
 > 💻 Frontend Developer focused on building modern, responsive and interactive web apps  
 > 🎨 UI/UX Enthusiast who loves clean and minimal design systems  
 > ⚡ Passionate about performance, accessibility & user experience  
-> 🚀 MERN Stack Explorer (React • Node • Express • MongoDB)
+> 🚀 MERN Stack Explorer (React • Node • Express • MySQL)
 
 ---
 
 ## ⚡ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,mongodb,git,github,figma,vscode)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,mysql,git,github,figma,vscode)
 
 ---
 
