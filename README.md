@@ -36,7 +36,7 @@ Simple frontend e-commerce website built using HTML, CSS, JS
 ### 💼 Portfolio Website
 Personal portfolio website showcasing skills & projects
 
-👉 https://github.com/rusurusu18/personal-portfolio
+👉 https://personal-portfolio-plum-six-47.vercel.app/
 
 ---
 
