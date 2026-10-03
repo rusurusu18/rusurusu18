@@ -40,19 +40,6 @@ Personal portfolio website showcasing skills & projects
 
 ---
 
-
-## 🔥 GitHub Streak
-
-![Streak](https://streak-stats.demolab.com?user=rusurusu18&theme=radical&hide_border=true)
-
----
-
-## 📈 Activity Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=rusurusu18&theme=react-dark&hide_border=true)
-
----
-
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/rusurusu18">LinkedIn</a> •
