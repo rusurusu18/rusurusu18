@@ -33,6 +33,13 @@ Simple frontend e-commerce website built using HTML, CSS, JS
 
 ---
 
+### Clinic Management System
+A clinic management project focused on organizing clinic operations, patient information, appointments, and related management features.
+
+👉 https://github.com/rusurusu18/Clinic-Management-System
+
+---
+
 ### 💼 Portfolio Website
 Personal portfolio website showcasing skills & projects
 
